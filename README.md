@@ -8,6 +8,5 @@ I'm deeply interested in machine learning, predictive systems, and building
 products that impact the world.
 
 I'm the creator of Clairvoyance, an open-source flight prediction engine.
-See your journey before it happens.
 
 Feel free to reach out about ideas, projects, or anything interesting.
