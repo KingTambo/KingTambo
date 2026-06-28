@@ -1,16 +1,13 @@
-## Hi there 👋
+![Python](https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-E67E22?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA2222?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-C64B7A?style=for-the-badge&logo=react&logoColor=white)
 
-<!--
-**KingTambo/KingTambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm deeply interested in machine learning, predictive systems, and building 
+products that impact the world.
 
-Here are some ideas to get you started:
+I'm the creator of Clairvoyance, an open-source flight prediction engine.
+See your journey before it happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out about ideas, projects, or anything interesting.
